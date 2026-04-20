@@ -1,7 +1,7 @@
 this is my first commit 
 
 public static ABC(){
-    code here ////////
+   //// coding statement code here ////////
 }
 
 #my second commit
