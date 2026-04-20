@@ -2,6 +2,7 @@ this is my first commit
 
 public static ABC(){
    //// coding statement code here ////////
+    ///// perform the coding changes here 
 }
 
 #my second commit
